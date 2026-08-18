@@ -8,4 +8,6 @@ I am still learning new things and i do stuff somewhat randomly soo... yeah don'
 <img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/263d1017-1c77-446c-aaf1-5fee6c8ac6d8" />
 <img width="825" height="793" alt="image" src="https://github.com/user-attachments/assets/423f43f3-a81a-4531-bfd2-d40b7580e45c" />
 <img width="675" height="661" alt="Screenshot_20260506_121401_Instagram" src="https://github.com/user-attachments/assets/48bf94e3-eab0-4c5f-bd93-27cab80fa55d" />
+<img width="736" height="975" alt="96bfa6d1d8b84ce0ee5b10e8ade96c5b" src="https://github.com/user-attachments/assets/aff7f63c-0100-4e1a-9f41-debf1f38f01c" />
+
 
